@@ -1,0 +1,43 @@
+// <body>
+$body-bg: white;
+$body-font: 14px / 21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$body-color: #444444;
+
+// <h1>, <h2>, <.subheader>
+$heading-color: #181818;
+$subheader-color: #777777;
+
+// <blockquote>
+$blockquote-color: #777777;
+$blockquote-cite-color: #555555;
+$blockquote-cite-link-color: #555555;
+$blockquote-border-left: #dddddd;
+
+// p.lead
+$paragraph-lead-color: #777777;
+
+// <strong>
+$strong-tag-color: #333333;
+
+// <hr />
+$hr-color: #dddddd;
+
+// <a>
+$link-color: #333333;
+$link-hover-focus-color: black;
+
+// <input> <textarea> <select> (text, password, email,)
+$input-border-color: #cccccc;
+$input-focus-border-color: #aaaaaa;
+$input-font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$input-color: #777777;
+$input-focus-color: #444444;
+$input-background: white;
+
+// <legend><span>
+$legend-span-color: #444444;
+
+// Lists
+$columns: one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen;
+$offsets: one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen;
+$box-shadow-prefixes: -webkit-box-shadow, -moz-box-shadow, box-shadow;
